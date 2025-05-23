@@ -5,6 +5,6 @@
 
   # Yunqing-Yu's Website
 
-  Visit **[yunqing-yu.github.io/yunqingyulab.github.io](https://yunqing-yu.github.io/yunqingyulab.github.io)** 🚀
+  Visit **[yunqing-yu.github.io/yulab](https://yunqing-yu.github.io/yulab)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
