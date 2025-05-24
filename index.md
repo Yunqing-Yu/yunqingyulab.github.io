@@ -1,9 +1,9 @@
 ---
 ---
 
-# Yunqing-Yu's Website
+# Comparative Plant Development Lab
 
-An engaging 1-3 sentence description of your lab.
+Our lab studies comparative development of plant morphological traits at the cellular level and their underlying genetic bases.
 
 {% include section.html %}
 
